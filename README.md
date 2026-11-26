@@ -1,5 +1,24 @@
-Selvakumar – Clinical Data Management Portfolio
+Selvakumar – Clinical Data Management
+Portfolio Navigation
 
+Explore my learning materials and practice projects:
+
+1. "CDM Fundamentals" (01_CDM_Fundamentals/README.md)
+2. "EDC & Rave Practice" (02_EDC_Rave_Practice/README.md)
+3. "SQL Practice" (03_SQL_Practice/README.md)
+4. "TMF & ISF Documentation" (04_TMF_ISF/README.md)
+5. "Clinical Data Projects" (05_Projects/README.md)
+6. "Certificates" (06_Certificates/README.md)
+7. "45-Day Learning Challenge" (07_45_Day_Challenge/README.md)
+8. "Resume & Professional Profile" (08_Resume/README.md)
+
+Career Goal
+
+My goal is to become a Clinical Data Manager and progress towards a Clinical Data Team Lead position.
+
+---
+
+Thank you for visiting my Clinical Data Management Portfolio!
 Welcome to my Clinical Data Management learning portfolio!
 
 About Me
@@ -31,6 +50,7 @@ Certificates
 
 - ICH-GCP
 - Clinical Data Management
+- ISPTC
 
 Learning Journey
 
